@@ -37,6 +37,7 @@ step4: open `Instagram Downloader.pyw` and paste(Ctrl+v) the data then Start Scr
 <img src="/assets/screenshot3.jpg" width="400px">
 
 step5: After completed download press `reset` and copy generated url again then paste in the broswer again to get rest source code and keep repeating process. When all pages are completed no generated url will be blank.
+                               
 <img src="/assets/screenshot4.jpg" width="400px">
 
 
