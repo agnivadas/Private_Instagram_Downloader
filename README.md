@@ -31,10 +31,14 @@ step 2 : Open `Instagram GraphQL generator.pyw` and paste the link . Then genera
 <img src="/assets/screenshot1.jpg" width="400px">
 
 step3: Paste the GraphQL url in the browser where you are logged in , then SELECT ALL(cTRL+a) and  copy(Ctrl+C) the page source data .
+<img src="/assets/screenshot2.jpg" width="300px">
 
 step4: open `Instagram Downloader.pyw` and paste(Ctrl+v) the data then Start Scrapping .
+<img src="/assets/screenshot3.jpg" width="300px">
 
 step5: After completed download press `reset` and copy generated url again then paste in the broswer again to get rest source code and keep repeating process. When all pages are completed no generated url will be blank.
+<img src="/assets/screenshot4.jpg" width="300px">
+
 
 
 
