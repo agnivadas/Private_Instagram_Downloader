@@ -30,7 +30,8 @@ step 1: Copy the url of profile/post/highlight/stories
 step 2 : Open `Instagram GraphQL generator.pyw` and paste the link . Then generate the GraphQL url. 
 <img src="/assets/screenshot1.jpg" width="400px">
 
-step3: Paste the GraphQL url in the browser where you are logged in , then SELECT ALL(cTRL+a) and  copy(Ctrl+C) the page source data .
+step3: Paste the GraphQL url in the browser where you are logged in , then Select all(Ctrl+A) and  Copy(Ctrl+C) the page source data .
+
 <img src="/assets/screenshot2.jpg" width="300px">
 
 step4: open `Instagram Downloader.pyw` and paste(Ctrl+v) the data then Start Scrapping .
