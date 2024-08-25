@@ -1,1 +1,48 @@
+
 # Private_Instagram_Downloader
+Graphical User Interface based script to batch download posts,reel,highlights,stories of PRIVATE or PUBLIC instagram accounts. *NO CREDENTIALS REQUIRED IN SCRIPT*.
+
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![Insta Private_Instagram_Downloader](https://img.shields.io/badge/source-GitHub-303030.svg?style=flat-square)](https://github.com/agnivadas/Private_Instagram_Downloader) ![Maintenance](https://img.shields.io/maintenance/yes/2024) ![Static Badge](https://img.shields.io/badge/contributions-welcome-blue)
+
+## Requirements
+
+Install Python Latest version then in command terminal paste the following for required libraries :
+
+```bash
+  pip install requests aiohttp asyncio urllib3 httpx
+```
+    
+## Features
+
+- Can use proxies
+- .pyw extension used in the files to prevent appearing of console
+- Multiple threads used in program for fast downloading . Then single thread download to cross check and download any remaining files.
+- Previously downloaded files skipped automatically.
+
+
+## Usage
+**To download private account posts/stories/highlights , you need to follow the account .**
+
+step 1: Copy the url of profile/post/highlight/stories
+
+step 2 : Open `Instagram GraphQL generator.pyw` and paste the link . Then generate the GraphQL url. 
+
+step3: Paste the GraphQL url in the browser where you are logged in , then SELECT ALL(cTRL+a) and  copy(Ctrl+C) the page source data .
+
+step4: open `Instagram Downloader.pyw` and paste(Ctrl+v) the data then Start Scrapping .
+
+step5: After completed download press `reset` and copy generated url again then paste in the broswer again to get rest source code and keep repeating process. When all pages are completed no generated url will be blank.
+
+
+
+## FAQ
+
+If HTTP Error 403 during GraphQL link generation then use proxy or vpn.
+Must Rsest the program for next session.
+
+
+## Disclaimer
+
+Disclaimer: This is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Instagram. The entire responsibility for the use of programs entirely on you.
