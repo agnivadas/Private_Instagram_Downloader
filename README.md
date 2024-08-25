@@ -4,7 +4,7 @@ Graphical User Interface based script to batch download posts,reel,highlights,st
 
 ## Badges
 
-[![GPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/gpl-3.0) [![Insta Private_Instagram_Downloader](https://img.shields.io/badge/source-GitHub-303030.svg?style=flat-square)](https://github.com/agnivadas/Private_Instagram_Downloader) ![Maintenance](https://img.shields.io/maintenance/yes/2024) ![Static Badge](https://img.shields.io/badge/contributions-welcome-blue)
+[![GPL License](https://img.shields.io/badge/license-GPL-violet.svg)](http://www.gnu.org/licenses/gpl-3.0) [![Insta Private_Instagram_Downloader](https://img.shields.io/badge/source-GitHub-303030.svg?style=flat-square)](https://github.com/agnivadas/Private_Instagram_Downloader) ![Maintenance](https://img.shields.io/maintenance/yes/2024) ![Static Badge](https://img.shields.io/badge/contributions-welcome-blue)
 
 ## Requirements
 
