@@ -1,6 +1,6 @@
 
 # Private_Instagram_Downloader
-Graphical User Interface based script to batch download posts,reel,highlights,stories of PRIVATE or PUBLIC instagram accounts. *NO CREDENTIALS REQUIRED IN SCRIPT*.
+Graphical User Interface based script to batch download posts,reel,highlights,stories of PRIVATE or PUBLIC instagram accounts. *NO CREDENTIALS REQUIRED IN SCRIPT*.Fast download with multi thread download.
 
 ## Badges
 
@@ -46,7 +46,7 @@ step5: After completed download copy `generated url` and press `reset`, then pas
 ## FAQ
 
 If HTTP Error 403 during GraphQL link generation then use proxy or vpn.
-Must Rsest the program for next session.
+Must `Reset` the program for next session.
 Instagram GraphQL request fetch 12 posts of feed maximum at a time so process repeat is required to download all posts .For highlights downloading no repeat process is required.
 
 
