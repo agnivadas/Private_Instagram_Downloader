@@ -28,6 +28,7 @@ Install Python Latest version then in command terminal paste the following for r
 step 1: Copy the url of profile/post/highlight/stories
 
 step 2 : Open `Instagram GraphQL generator.pyw` and paste the link . Then generate the GraphQL url. 
+<img src="/assets/screenshot1.jpg" width="400px">
 
 step3: Paste the GraphQL url in the browser where you are logged in , then SELECT ALL(cTRL+a) and  copy(Ctrl+C) the page source data .
 
